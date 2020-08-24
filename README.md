@@ -1,4 +1,4 @@
-<h3>A 'Tallinnted' Web Developer</h3> <sup>(Thanks, Colin!)</sup> <br>
+<h3>A 'Tallinnted' Web Developer</h3> <sup>(Thanks, Conor!)</sup> <br>
 
 **Hello!** I'm Krista! <br>
 I'm an aspiring junior front-end developer from Tallinn, Estonia.
