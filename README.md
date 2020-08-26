@@ -1,4 +1,4 @@
-#### Hello! I'm Krista!
+### Hello! I'm Krista!
 I'm an aspiring front-end developer from Tallinn, Estonia.
 
 <br>
