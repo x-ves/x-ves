@@ -13,6 +13,13 @@ I'm an aspiring front-end developer from Tallinn, Estonia.
 
 <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png"/></a> <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/sass.png"/></a>
 
+<br>
+
+Curious about what I'm currently working on? <br>
+I might've written about it on:
+
+<a href="https://peakd.com/@xves" target="_blank"><img src="https://xves.netlify.app/assets/hive.svg"/></a>
+
 📧 Contact me:
 
 <a href="mailto:kristaveske@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me.png"/></a>
