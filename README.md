@@ -4,6 +4,11 @@ I'm an aspiring front-end developer from Tallinn, Estonia.
 <a href="https://xves.netlify.app/" target="_blank"> Check out my personal portfolio!</a> <br>
 <sup>(PS! I'm constantly tweaking things)</sup>
 
+Curious about what I'm currently working on? <br>
+I might've written about it on:
+
+<a href="https://peakd.com/@xves" target="_blank"><img src="https://xves.netlify.app/assets/hive.svg"/></a>
+
 <br>
 
 🔪 My weapons of choice are...
@@ -15,11 +20,6 @@ I'm an aspiring front-end developer from Tallinn, Estonia.
 <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png"/></a> <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/sass.png"/></a>
 
 <br>
-
-Curious about what I'm currently working on? <br>
-I might've written about it on:
-
-<a href="https://peakd.com/@xves" target="_blank"><img src="https://xves.netlify.app/assets/hive.svg"/></a>
 
 📧 Contact me:
 
