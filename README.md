@@ -1,8 +1,7 @@
 ### Hello! I'm Krista!
 I'm an aspiring front-end developer from Tallinn, Estonia.
 
-<a href="https://xves.netlify.app/" target="_blank"> Check out my personal portfolio!</a> <br>
-<sup>(PS! I'm constantly tweaking things)</sup>
+<a href="https://xves.eu/" target="_blank"> Check out my personal portfolio!</a> <br>
 
 Curious about what I'm currently working on? <br>
 I might've written about it on:
