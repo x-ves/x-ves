@@ -22,7 +22,7 @@ I might've written about it on:
 
 📧 Contact me:
 
-<a href="mailto:kristaveske@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me.png"/></a>
+<a href="mailto:krista@xves.eu"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me.png"/></a>
 <a href="https://www.linkedin.com/in/krista-veske/" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/linkedin.png"/></a>
 
 <sup>Badges created by <a href="https://github.com/MikeCodesDotNET" target="_blank">Mike James (MikeCodesDotNET)</a>.</sup>
