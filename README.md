@@ -6,7 +6,7 @@ I'm an aspiring front-end developer from Tallinn, Estonia.
 Curious about what I'm currently working on? <br>
 I might've written about it on:
 
-<a href="https://peakd.com/@xves" target="_blank"><img src="https://xves.netlify.app/assets/hive.svg"/></a>
+<a href="https://peakd.com/@xves" target="_blank"><img src="https://xves.eu/assets/hive.svg"/></a>
 
 <br>
 
