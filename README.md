@@ -1,7 +1,7 @@
 ### Hello! I'm Krista!
 I'm a helpdesk specialist by day and an aspiring front-end developer in my free time.
 
-<a href="https://xves.eu/" target="_blank"> Check out my personal portfolio!</a> <br>
+<a href="https://xves.rocks/" target="_blank"> Check out my personal portfolio!</a> <br>
 
 Curious about what I'm currently working on? <br>
 I might've written about it on:
