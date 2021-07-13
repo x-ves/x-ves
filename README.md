@@ -1,14 +1,7 @@
 ### Hello! I'm Krista!
-I'm a helpdesk specialist by day and an aspiring front-end developer in my free time.
+I'm an aspiring front-end developer with a current dayjob as a helpdesker.
 
 <a href="https://xves.rocks/" target="_blank"> Check out my personal portfolio!</a> <br>
-
-Curious about what I'm currently working on? <br>
-I might've written about it on:
-
-<a href="https://peakd.com/@xves" target="_blank"><img src="https://xves.eu/assets/hive.svg"/></a>
-
-<br>
 
 🔪 My weapons of choice are...
 
