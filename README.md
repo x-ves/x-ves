@@ -1,7 +1,5 @@
 ### Hello! I'm Krista!
-I'm an aspiring front-end developer with a current dayjob as a helpdesker.
-
-<a href="https://xves.rocks/" target="_blank"> Check out my personal portfolio!</a> <br>
+I enjoy it when the characters I type transform into visually pleasing webpages.
 
 🔪 My weapons of choice are...
 
