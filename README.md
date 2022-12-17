@@ -11,7 +11,7 @@ I enjoy it when the characters I type transform into visually pleasing webpages.
 
 📧 Contact me:
 
-<a href="mailto:krista@xves.eu"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me.png"/></a>
+<a href="mailto:krista@veske.ee"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/email_me.png"/></a>
 <a href="https://www.linkedin.com/in/krista-veske/" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/linkedin.png"/></a>
 
 <sup>Badges created by <a href="https://github.com/MikeCodesDotNET" target="_blank">Mike James (MikeCodesDotNET)</a>.</sup>
